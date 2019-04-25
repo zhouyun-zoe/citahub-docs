@@ -2,6 +2,7 @@
 id: permission
 title: Permission Management
 ---
+
 CITA实现了对账户的权限管理，并支持基于角色的权限管理。
 
 CITA通过智能合约的方式来对权限进行管理。

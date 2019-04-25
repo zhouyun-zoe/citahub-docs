@@ -3,7 +3,6 @@ id: group
 title: 组合约接口
 ---
 
-
 <h2 class="hover-list">Users Management</h2>
 
 * [queryInfo](#queryInfo)
