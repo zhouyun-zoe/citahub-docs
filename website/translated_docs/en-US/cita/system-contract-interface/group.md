@@ -3,7 +3,6 @@ id: group
 title: Group System Contract
 ---
 
-
 <h2 class="hover-list">Users Management</h2>
 
 * [queryInfo](#queryInfo)

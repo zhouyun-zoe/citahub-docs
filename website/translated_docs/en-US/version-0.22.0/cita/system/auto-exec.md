@@ -3,6 +3,7 @@ id: version-0.22.0-auto-exec
 title: Automated Execution
 original_id: auto-exec
 ---
+
 `CITA` 自动执行合约。
 
 ## 简述
